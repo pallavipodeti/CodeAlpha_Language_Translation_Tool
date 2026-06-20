@@ -50,7 +50,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Varshith
+Podeti Pallavi
 
 ## 🏆 Internship
 
